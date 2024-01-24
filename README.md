@@ -6,3 +6,5 @@ homework 2
 
 homework 3
   - four.py
+  - five.py
+  - six.py
